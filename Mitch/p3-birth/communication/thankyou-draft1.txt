@@ -1,0 +1,18 @@
+Dear Tom, Shahed, Jed,
+
+Thank you for your help in developing our expert user persona for the intelligent email project. 
+
+We launched the new persona, "Mitch", on Tuesday February 17th. We believe "Mitch" is ready for action and we will be using "Mitch" at the upcoming product planning meeting where we will be prioritizing what features we will focus on for upcoming product development iterations.
+
+In addition, we will use "Mitch" to help development design and implement features that are more user-centric.
+
+If you want to see the final version of "Mitch", he's on the wiki:
+https://wiki.library.oregonstate.edu/confluence/display/~slater/Intelligent+Email+Personas+Project
+
+In two weeks, after everyone has had an opportunity to use the new persona, we will follow-up with a report on what's worked well and what needs further improvement.
+
+Best regards,
+
+Rasha, Sruti, Ying, Michael 
+EECS ISR Personas Team
+
